@@ -1,0 +1,23 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+}
+.bg-container {
+  height: 100vh;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.login-container {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  background-size: cover;
+  height: 40vh;
+  width: 30%;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
